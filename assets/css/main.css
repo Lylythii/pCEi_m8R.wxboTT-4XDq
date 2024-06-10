@@ -1279,7 +1279,7 @@ input, select, textarea {
 				left: calc(50% - 1px);
 				width: 1px;
 				height: calc(3.5rem + 1px);
-				background: #ffffff;
+				background: rgb(172, 90, 255);
 			}
 
 		#header > :first-child {
@@ -1304,7 +1304,7 @@ input, select, textarea {
 
 		#header .content {
 			border-style: solid;
-			border-color: #ffffff;
+			border-color: rgb(172, 90, 255);
 			border-top-width: 1px;
 			border-bottom-width: 1px;
 			max-width: 100%;
@@ -1343,13 +1343,13 @@ input, select, textarea {
 			margin-bottom: 0;
 			list-style: none;
 			padding-left: 0;
-			border: solid 1px #ffffff;
+			border: solid 1px #ec4c9c;
 			border-radius: 4px;
 		}
 
 			#header nav ul li {
 				padding-left: 0;
-				border-left: solid 1px #ffffff;
+				border-left: solid 1px #ec4c9c;
 			}
 
 				#header nav ul li:first-child {
@@ -1384,7 +1384,7 @@ input, select, textarea {
 			left: calc(50% - 1px);
 			width: 1px;
 			height: 100%;
-			background: #ffffff;
+			background: #ffffff00;
 		}
 
 		#header nav.use-middle ul li.is-middle {
@@ -1660,7 +1660,65 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+		/* Profile Icon */
 		.profile-picture {
 			width: 100%;
+			border-radius: 10rem;
+		}
+		
+		/* Website Icons */
+		.about-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
+		.spotify-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
+		.bandcamp-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
+		.soundcloud-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
+		.youtube-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
+		.discord-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
+		.twitter-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
+		.bluesky-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
+		.instagram-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
+		.threads-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
+		.reddit-picture {
+			padding: 0.5rem;
+			width: 15%;
 			border-radius: 10rem;
 		}
