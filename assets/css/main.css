@@ -1665,6 +1665,11 @@ input, select, textarea {
 			width: 100%;
 			border-radius: 10rem;
 		}
+		.contacts-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
 		
 		/* Website Icons */
 		.about-picture {
@@ -1718,6 +1723,16 @@ input, select, textarea {
 			border-radius: 10rem;
 		}
 		.reddit-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
+		.github-picture {
+			padding: 0.5rem;
+			width: 15%;
+			border-radius: 10rem;
+		}
+		.gitlab-picture {
 			padding: 0.5rem;
 			width: 15%;
 			border-radius: 10rem;
