@@ -1660,7 +1660,7 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		/* Profile Icon */
+		/* Icons */
 		.profile-picture {
 			width: 100%;
 			border-radius: 10rem;
@@ -1670,69 +1670,12 @@ input, select, textarea {
 			width: 15%;
 			border-radius: 10rem;
 		}
-		
-		/* Website Icons */
 		.about-picture {
 			padding: 0.5rem;
 			width: 15%;
 			border-radius: 10rem;
 		}
-		.spotify-picture {
-			padding: 0.5rem;
-			width: 15%;
-			border-radius: 10rem;
-		}
-		.bandcamp-picture {
-			padding: 0.5rem;
-			width: 15%;
-			border-radius: 10rem;
-		}
-		.soundcloud-picture {
-			padding: 0.5rem;
-			width: 15%;
-			border-radius: 10rem;
-		}
-		.youtube-picture {
-			padding: 0.5rem;
-			width: 15%;
-			border-radius: 10rem;
-		}
-		.discord-picture {
-			padding: 0.5rem;
-			width: 15%;
-			border-radius: 10rem;
-		}
-		.twitter-picture {
-			padding: 0.5rem;
-			width: 15%;
-			border-radius: 10rem;
-		}
-		.bluesky-picture {
-			padding: 0.5rem;
-			width: 15%;
-			border-radius: 10rem;
-		}
-		.instagram-picture {
-			padding: 0.5rem;
-			width: 15%;
-			border-radius: 10rem;
-		}
-		.threads-picture {
-			padding: 0.5rem;
-			width: 15%;
-			border-radius: 10rem;
-		}
-		.reddit-picture {
-			padding: 0.5rem;
-			width: 15%;
-			border-radius: 10rem;
-		}
-		.github-picture {
-			padding: 0.5rem;
-			width: 15%;
-			border-radius: 10rem;
-		}
-		.gitlab-picture {
+		.generic-picture {
 			padding: 0.5rem;
 			width: 15%;
 			border-radius: 10rem;
