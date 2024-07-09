@@ -1,6 +1,16 @@
 :root {
     background-color: black;
     font-family: 'gg sans Normal Regular';
+    /* Colours for determining account activity status */
+    --account-note: #cd9ced;                    /* For adding little notes/comments about accounts/projects */
+    --fully-active: #a1ed9c;                    /* Fully Active. Used fairly regularly. */
+    --semi-active: #9cedc7;                     /* Semi-Active. Used, just not focused on. */
+    --semi-inactive: #edd19c;                   /* Semi-Inactive. Still used on the off-chance. */
+    --fully-inactive: #ed9c9c;                  /* Fully Inactive. Odds of being used slim-to-none. */
+    --fully-archived: #f03e3e;                  /* Archived projects/accounts. Unlikely to be revisted. */
+    --account-automated: #ed9cd2;               /* Accounts automated. */
+    --account-automated-third-party: #b55b97;   /* Accounts automated by third-parties. IE: YouTube Topic channels. */
+    --account-private: #9228b3;                 /* Somewhat Public Private Stuff??? */
 }
 
 .header {
