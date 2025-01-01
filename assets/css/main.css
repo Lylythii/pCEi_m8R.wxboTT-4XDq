@@ -1279,7 +1279,7 @@ input, select, textarea {
 				left: calc(50% - 1px);
 				width: 1px;
 				height: calc(3.5rem + 1px);
-				background: rgb(172, 90, 255);
+				background: #ec4c9c;
 			}
 
 		#header > :first-child {
@@ -1294,7 +1294,7 @@ input, select, textarea {
 			width: 5.5rem;
 			height: 5.5rem;
 			line-height: 5.5rem;
-			border: solid 1px #ffffff;
+			border: solid 2px #ec4c9c;
 			border-radius: 100%;
 		}
 
@@ -1304,9 +1304,12 @@ input, select, textarea {
 
 		#header .content {
 			border-style: solid;
-			border-color: rgb(172, 90, 255);
+			border-color: #ec4c9c;
+			background: #ec4c9c30;
 			border-top-width: 1px;
 			border-bottom-width: 1px;
+			border-left-width: 1px;
+			border-right-width: 1px;
 			max-width: 100%;
 		}
 
