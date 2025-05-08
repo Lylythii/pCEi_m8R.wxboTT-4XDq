@@ -11,6 +11,7 @@
     --account-automated: #ed9cd2;               /* Accounts automated. */
     --account-automated-third-party: #b55b97;   /* Accounts automated by third-parties. IE: YouTube Topic channels. */
     --account-private: #9228b3;                 /* Somewhat Public Private Stuff??? */
+    --lost: #b32828;                            /* Accounts, or otherwise, that have been lost for one reason or another. */
 }
 
 .header {
